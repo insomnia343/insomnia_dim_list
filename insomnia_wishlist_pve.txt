@@ -13,19 +13,25 @@ dimwishlist:item=3473290087&perks=1840239774,106909392,3400784728,2848615171
 dimwishlist:item=3473290087&perks=1840239774,106909392,2450788523,47981717#notes: best for pvp - recommend mw- reload
 
 
-
+//auto
 // Chroma Rush
 dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926#notes: Best auto for pve - MW recommend - range
 dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3592538738
 
 
-
+//nade launchers
 // Ignition Code
 //notes: Best rolls, MW for blast radius
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,4104185692
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,960810156
 
 
+//shotguns
+// Found Verdict
+dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717#notes: best for pvp, probably broken - recommend mw- range
+dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523#notes: also best for pvp, probably broken - recommend mw- range
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717#notes: best for pvp, probably broken - recommend mw- range
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523#notes: best for pvp, probably broken - recommend mw- range
 
- 
+
 
