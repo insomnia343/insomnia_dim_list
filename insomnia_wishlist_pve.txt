@@ -1,6 +1,11 @@
 // Rewind Rounds and Firefly perk wildcard
 dimwishlist:item=-69420&perks=3418782618,3824105627
 
+//notes:insomnia (PvE): must have for grenade launchers|tags:pve
+dimwishlist:item=-69420&perks=3032599245,3300816228,1683379515
+dimwishlist:item=-69420&perks=3032599245,3300816228,3523296417
+
+
 //snipers
 // Uzume RR4
 dimwishlist:item=2065081837&perks=1840239774,2420895100,3400784728,1546637391#notes: Best PvE Roll for boss dps - Recommend MW - reload
