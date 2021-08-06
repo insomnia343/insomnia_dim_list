@@ -118,7 +118,7 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,4049631843
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,4049631843
 
-////notes:insomnia (??? PvE nightfall ???): this ignition code roll list is for GM nightfalls|tags:PvE nightfall
+////notes:insomnia (PvE): this ignition code roll list is for GM nightfalls|tags:PvE nightfall
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,3523296417
 dimwishlist:item=304659313&perks=3798852852,3032599245,2010801679,3523296417
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,4104185692
@@ -288,7 +288,7 @@ dimwishlist:item=3654674561&perks=3250034553,1561002382,957782887
 
 
 // Hawkmoon
-//notes:insomnia (PvP): hawkmoon for pvp, but Ace of Spades is better option|tags:pvp
+//notes:insomnia (PvP): hawkmoon for pvp|tags:pvp
 dimwishlist:item=3856705927&perks=1467527085,2450788523,3438534621
 dimwishlist:item=3856705927&perks=202670084,2450788523,3438534621
 dimwishlist:item=3856705927&perks=1467527085,2846385770,3438534621
